@@ -1,6 +1,4 @@
-# Bank-Account-Fraud-Analysis
-
-Abstract
+# Bank Account Fraud Analysis
 
 Bank fraud is the use of potentially illegal means to obtain money, assets, or other property owned or held by a financial institution. Bank fraud is a criminal offence. While it is easier to define bank fraud, it is significantly harder to detect when it occurs with high accuracy, precision and recall, and with potentially billions of dollars that can be obtained by committing bank fraud, it is very important to be able to accurately identify when it has occurred (a skill that banks would find very valuable).
 
